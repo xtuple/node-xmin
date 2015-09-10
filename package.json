@@ -1,11 +1,11 @@
 {
   "name": "xmin",
-  "version": "0.9.17",
+  "version": "0.9.18",
   "description": "Generate installers for webmin, usermin, and other *min packages",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/xtuple/node-webmin.git"
+    "url": "git://github.com/xtuple/node-xmin.git"
   },
   "preferGlobal": true,
   "keywords": [

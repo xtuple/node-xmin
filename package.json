@@ -1,11 +1,11 @@
 {
   "name": "xmin",
-  "version": "0.9.16",
+  "version": "0.9.17",
   "description": "Generate installers for webmin, usermin, and other *min packages",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/tjwebb/node-webmin.git"
+    "url": "git://github.com/xtuple/node-webmin.git"
   },
   "preferGlobal": true,
   "keywords": [
@@ -21,9 +21,9 @@
   "author": "Travis Webb <me@traviswebb.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tjwebb/node-xmin/issues"
+    "url": "https://github.com/xtuple/node-xmin/issues"
   },
-  "homepage": "https://github.com/tjwebb/node-xmin",
+  "homepage": "https://github.com/xtuple/node-xmin",
   "dependencies": {
     "commander": "^2.2.0",
     "npmlog": "^0.1.1",
